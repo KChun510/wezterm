@@ -17,9 +17,9 @@ config.font_size = 18.0
 -- For example, changing the color scheme:
 --config.color_scheme = "Purpledream (base16)"
 --config.color_scheme = "Pasque (base16)"
---config.color_scheme = "Pixiefloss (Gogh)"
+config.color_scheme = "Pixiefloss (Gogh)"
 --config.color_scheme = "BlueBerryPie"
-config.color_scheme = "Cloud (terminal.sexy)"
+--config.color_scheme = "Cloud (terminal.sexy)"
 --config.color_scheme = "Dark Violet (base16)"
 --config.color_scheme = "Heetch Dark (base16)"
 --config.color_scheme = "Lavandula"
